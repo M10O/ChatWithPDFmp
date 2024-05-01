@@ -1,0 +1,4 @@
+data*.obj
+.env
+__pycache__/*
+Spacefile
